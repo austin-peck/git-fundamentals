@@ -1,5 +1,9 @@
+Anyting you want at the top of the file here
+
 D-Lab Git Fundamentals Workshop
 ===============================
+
+Or where ever.
 
 A starting point for discovering the wonderful world of Git and GitHub in the context of Research Workflows.
 
